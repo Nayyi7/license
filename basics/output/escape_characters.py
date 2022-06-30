@@ -1,0 +1,7 @@
+print("\n Prints a new line")
+print("\t Prints a tab")
+print("\\ Print a backlash")
+print("Nazaret said \"hello\"")
+print()
+print(" I am \"Beep!\"")
+print("\n\n\t I am Beep!\n\n")

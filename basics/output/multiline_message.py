@@ -1,0 +1,6 @@
+print("System Failure Inminent")
+print("System rebopot has been initiated...")
+print("... rebooting sensory system")
+print("... rebooting output motors")
+print("... rebooting hiover engine")
+print("System online.")
